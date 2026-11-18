@@ -1,6 +1,6 @@
 # Basic Java Chess Game
 
-This project is a basic implementation of a chess game in Java. It was made mainly to understand the concepts of Object-Oriented Programming (OOPs) in Java. The core logic of the game, including the rules and movement, was written by me to practice OOP principles. The other implementations like the swing ui part and the images part was done using claude code sonnet 5.5 model.
+This project is a basic implementation of a chess game in Java. It was made mainly to understand the concepts of Object-Oriented Programming (OOPs) in Java. The core logic of the game, including the rules and movement, was written by me to practice OOP principles.
 
 ## How to Run
 
